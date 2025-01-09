@@ -1,0 +1,3 @@
+yara-python==4.5.1
+httpx==0.27.2
+curl_cffi==0.7.4
